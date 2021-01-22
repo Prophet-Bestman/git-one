@@ -1,0 +1,39 @@
+{    
+    {
+        city: 'Chicago',
+        price: '$12.43',
+        details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quasi sed tempora, alias similique accusamus veritatis odio impedit aliquid provident sapiente laborum labore architecto assumenda quaerat distinctio cum, sequi, quos animi. Incidunt fuga earum adipisci tenetur magni consequatur aliquid fugiat. Eum culpa ad, illum excepturi nihil nam iusto debitis voluptates?',
+        image: '',
+
+    }, 
+    
+    {
+        city: 'Los Angeles',
+        price: '$14.21',
+        details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quasi sed tempora, alias similique accusamus veritatis odio impedit aliquid provident sapiente laborum labore architecto assumenda quaerat distinctio cum, sequi, quos animi. Incidunt fuga earum adipisci tenetur magni consequatur aliquid fugiat. Eum culpa ad, illum excepturi nihil nam iusto debitis voluptates?',
+        image: '',
+
+    },
+    {
+        city: 'Paris',
+        price: '$16.63',
+        details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quasi sed tempora, alias similique accusamus veritatis odio impedit aliquid provident sapiente laborum labore architecto assumenda quaerat distinctio cum, sequi, quos animi. Incidunt fuga earum adipisci tenetur magni consequatur aliquid fugiat. Eum culpa ad, illum excepturi nihil nam iusto debitis voluptates?',
+        image: '',
+
+    },
+    {
+        city: 'Dubai',
+        price: '$15.90',
+        details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quasi sed tempora, alias similique accusamus veritatis odio impedit aliquid provident sapiente laborum labore architecto assumenda quaerat distinctio cum, sequi, quos animi. Incidunt fuga earum adipisci tenetur magni consequatur aliquid fugiat. Eum culpa ad, illum excepturi nihil nam iusto debitis voluptates?',
+        image: '',
+
+    },
+    {
+        city: 'Rome',
+        price: '$11.67',
+        details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quasi sed tempora, alias similique accusamus veritatis odio impedit aliquid provident sapiente laborum labore architecto assumenda quaerat distinctio cum, sequi, quos animi. Incidunt fuga earum adipisci tenetur magni consequatur aliquid fugiat. Eum culpa ad, illum excepturi nihil nam iusto debitis voluptates?',
+        image: '',
+
+    },
+    
+    }
